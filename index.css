@@ -1,0 +1,202 @@
+.food-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.food-food {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(35, 116, 121, 1);
+}
+.food-rectangle1 {
+  top: 28px;
+  left: 110px;
+  width: 1219px;
+  height: 191px;
+  position: absolute;
+  border-radius: 30px;
+}
+.food-ellipse1 {
+  top: 58px;
+  left: 149px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+}
+.food-frame1 {
+  top: 115px;
+  left: 575px;
+  width: 6px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.food-text {
+  top: 39px;
+  left: 631px;
+  color: rgba(255, 255, 255, 1);
+  width: 588px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-text02 {
+  top: 125px;
+  left: 479px;
+  color: rgba(255, 255, 255, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-text04 {
+  top: 125px;
+  left: 639px;
+  color: rgba(255, 255, 255, 1);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-text06 {
+  top: 128px;
+  left: 851px;
+  color: rgba(255, 255, 255, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-text08 {
+  top: 265px;
+  left: 391px;
+  color: rgba(255, 255, 255, 1);
+  width: 657px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-image1 {
+  top: 343px;
+  left: 204px;
+  width: 247px;
+  height: 229px;
+  position: absolute;
+}
+.food-image2 {
+  top: 366px;
+  left: 594px;
+  width: 275px;
+  height: 183px;
+  position: absolute;
+}
+.food-image3 {
+  top: 366px;
+  left: 1012px;
+  width: 300px;
+  height: 168px;
+  position: absolute;
+}
+.food-text10 {
+  top: 577px;
+  left: 195px;
+  color: rgba(255, 255, 255, 1);
+  width: 1052px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-rectangle2 {
+  top: 795px;
+  left: 0px;
+  width: 1440px;
+  height: 229px;
+  position: absolute;
+  border-radius: 40px;
+}
+.food-text12 {
+  top: 941px;
+  left: 613px;
+  color: rgba(255, 255, 255, 1);
+  width: 460px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.food-text14 {
+  top: 835px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  width: 1318px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inika;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
